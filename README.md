@@ -51,10 +51,11 @@ In order to check if the nginx server is working you need to curl and see the co
 ![image](https://github.com/karthi770/Jira_GitHub_intergration_Python/assets/102706119/e4cf633a-4472-43ea-84c6-3b4731f00c43)
 
 >[!CHECK] 
->![image](https://github.com/karthi770/Jira_GitHub_intergration_Python/assets/102706119/b759b772-bf6e-4e44-932a-c94cd20d85f0)
 >This is the location to get the IP address of the firewall and paste it in the destination tab.
-![image](https://github.com/karthi770/Jira_GitHub_intergration_Python/assets/102706119/0cb3f16c-48d2-432b-8e33-a8d7387350d0)
+>![image](https://github.com/karthi770/Jira_GitHub_intergration_Python/assets/102706119/b759b772-bf6e-4e44-932a-c94cd20d85f0)
 >This is the location to get the private IP address of the Virtual machine. This IP should be entered in Translated address.
+![image](https://github.com/karthi770/Jira_GitHub_intergration_Python/assets/102706119/0cb3f16c-48d2-432b-8e33-a8d7387350d0)
+
 
 >[!INFO] 
 >With all the above information create the rule and eventually create the firewall policy.
