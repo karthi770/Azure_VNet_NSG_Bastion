@@ -1,10 +1,11 @@
-### Simple Architecture
+### Azure VNet, Firewall, NSG and Bastion
 
 ![image](https://github.com/karthi770/Azure_VNet_NSG_Bastion/assets/102706119/5f5a0d4d-0f26-4dfd-90bc-2386e9f8833c)
 
 -
 <div class="page-break"></div>
 ### Create a Resource group
+
 ![image](https://github.com/karthi770/Jira_GitHub_intergration_Python/assets/102706119/317374ed-bda8-41f1-8817-5f4b97aee7a8)
 ### Create a Virtual network
 ![image](https://github.com/karthi770/Jira_GitHub_intergration_Python/assets/102706119/2541a105-9ac9-4c0f-90ff-e937fd37485a)
