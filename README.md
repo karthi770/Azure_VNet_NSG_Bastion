@@ -71,7 +71,7 @@ This is often used when you want to expose a service running on a specific virtu
 >[!important] If you could see there is an option to attach the firewall policy, we need to add the created firewall policy .
 
 
-
+Hi
 
 
 
