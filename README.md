@@ -114,4 +114,53 @@ This is often used when you want to expose a service running on a specific virtu
 >[!IMPORTANT] 
 >If you could see there is an option to attach the firewall policy, we need to add the created firewall policy .
 
+### Final Output
 
+![image](https://github.com/karthi770/Azure_VNet_NSG_Bastion/assets/102706119/bbc3ea7e-cc1c-46ad-b454-fae7d07e4ea8)
+
+-
+<div class="page-break"></div>
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Azure Logo</title>
+    <style>
+        body {
+            background-color: #000; /* Background color set to black */
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            margin: 0;
+            color: #ADD8E6; /* Text color set to white */
+        }
+
+        img {
+            width: 500px; /* Adjust the width as needed */
+            height: auto;
+        }
+    </style>
+</head>
+
+<body>
+    <div>
+        <img src="azure-logo.jpg" alt="Azure Logo">
+        <h2>Services I have learned in Azure:</h2>
+        <ul>
+            <li>Azure VM</li>
+            <li>Azure VNet</li>
+            <li>Firewall</li>
+            <li>NSG (Network Security Group)</li>
+            <li>Bastion</li>
+        </ul>
+    </div>
+</body>
+
+</html>
+
+```
