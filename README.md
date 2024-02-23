@@ -75,6 +75,8 @@ In order to check if the nginx server is working you need to curl and see the co
 
 -
 <div class="page-break"></div>
+
+
 ### Configure the Firewall
 
 >[!NOTE]
