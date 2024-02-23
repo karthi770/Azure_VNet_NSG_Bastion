@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-23T18:41:52.306Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:122.0) Gecko/20100101 Firefox/122.0" etag="U4d1ns0_ehkcC0Qmmzov" version="23.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-23T18:42:24.761Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:122.0) Gecko/20100101 Firefox/122.0" etag="z6o4Cg_ZEs2iX8DVNc-_" version="23.1.5" type="github">
   <diagram name="Page-1" id="rbhh-LLPLzyjg0o7bcGs">
     <mxGraphModel dx="1216" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -28,15 +28,6 @@
         <mxCell id="xnxbj8NPCQGm7oIH2xkB-13" value="Subnet" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="xnxbj8NPCQGm7oIH2xkB-14">
           <mxGeometry x="4" y="50" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xnxbj8NPCQGm7oIH2xkB-17" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="260" y="150.36" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="xnxbj8NPCQGm7oIH2xkB-3" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Firewalls.svg;" vertex="1" parent="xnxbj8NPCQGm7oIH2xkB-17">
-          <mxGeometry width="71" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="xnxbj8NPCQGm7oIH2xkB-16" value="Firewall" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="xnxbj8NPCQGm7oIH2xkB-17">
-          <mxGeometry x="60" y="50" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="xnxbj8NPCQGm7oIH2xkB-18" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="460" y="280" width="68" height="79.32" as="geometry" />
         </mxCell>
@@ -45,12 +36,6 @@
         </mxCell>
         <mxCell id="xnxbj8NPCQGm7oIH2xkB-15" value="Firewall Policy" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="xnxbj8NPCQGm7oIH2xkB-18">
           <mxGeometry x="4" y="49.31999999999999" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="xnxbj8NPCQGm7oIH2xkB-10" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.user;container=0;" vertex="1" parent="1">
-          <mxGeometry x="70" y="160.36" width="60" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="xnxbj8NPCQGm7oIH2xkB-22" value="User" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="70" y="220.36" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xnxbj8NPCQGm7oIH2xkB-24" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="630" y="300" width="70" height="98" as="geometry" />
@@ -62,13 +47,34 @@
           <mxGeometry x="10" y="68" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xnxbj8NPCQGm7oIH2xkB-26" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="150" y="30" width="68" height="110" as="geometry" />
+          <mxGeometry x="60" y="40.36" width="68" height="110" as="geometry" />
         </mxCell>
         <mxCell id="xnxbj8NPCQGm7oIH2xkB-9" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Resource_Groups.svg;" vertex="1" parent="xnxbj8NPCQGm7oIH2xkB-26">
           <mxGeometry width="68" height="64" as="geometry" />
         </mxCell>
         <mxCell id="xnxbj8NPCQGm7oIH2xkB-25" value="Resource Group" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="xnxbj8NPCQGm7oIH2xkB-26">
           <mxGeometry x="4" y="80" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xnxbj8NPCQGm7oIH2xkB-27" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="130" y="158" width="60" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="xnxbj8NPCQGm7oIH2xkB-10" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.user;container=0;" vertex="1" parent="xnxbj8NPCQGm7oIH2xkB-27">
+          <mxGeometry width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="xnxbj8NPCQGm7oIH2xkB-22" value="User" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="xnxbj8NPCQGm7oIH2xkB-27">
+          <mxGeometry y="60" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xnxbj8NPCQGm7oIH2xkB-28" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="284.5" y="90.00000000000001" width="125.5" height="89.99999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="xnxbj8NPCQGm7oIH2xkB-17" value="" style="group" vertex="1" connectable="0" parent="xnxbj8NPCQGm7oIH2xkB-28">
+          <mxGeometry x="5.5" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="xnxbj8NPCQGm7oIH2xkB-16" value="Firewall" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="xnxbj8NPCQGm7oIH2xkB-17">
+          <mxGeometry x="60" y="50" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xnxbj8NPCQGm7oIH2xkB-3" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Firewalls.svg;" vertex="1" parent="xnxbj8NPCQGm7oIH2xkB-28">
+          <mxGeometry y="30" width="71" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
