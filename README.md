@@ -1,7 +1,16 @@
+### Simple Architecture
+
+![image](https://github.com/karthi770/Azure_VNet_NSG_Bastion/assets/102706119/5f5a0d4d-0f26-4dfd-90bc-2386e9f8833c)
+
+-
+<div class="page-break"></div>
 ### Create a Resource group
 ![image](https://github.com/karthi770/Jira_GitHub_intergration_Python/assets/102706119/317374ed-bda8-41f1-8817-5f4b97aee7a8)
 ### Create a Virtual network
 ![image](https://github.com/karthi770/Jira_GitHub_intergration_Python/assets/102706119/2541a105-9ac9-4c0f-90ff-e937fd37485a)
+
+-
+<div class="page-break"></div>
 
 ![image](https://github.com/karthi770/Jira_GitHub_intergration_Python/assets/102706119/feb4b5df-bc61-4c50-a571-1826cb2be693)
 
@@ -16,6 +25,8 @@
 
 ![image](https://github.com/karthi770/Jira_GitHub_intergration_Python/assets/102706119/cac18f45-9ae2-4f51-aa5b-e68112d650e3)
 
+-
+<div class="page-break"></div>
 ### Create a Virtual machine
 ![image](https://github.com/karthi770/Jira_GitHub_intergration_Python/assets/102706119/5b83327d-bcfa-4343-b85b-e5bb8f10a693)
 
@@ -57,12 +68,17 @@
 Now add an index.html file for the nginx server to serve you. And then restart the inginx server `systemctl restart nginx`
 In order to check if the nginx server is working you need to curl and see the content, nginx server port 80. `curl localhost 80`
 
+-
+<div class="page-break"></div>
 ### Configure the Firewall
 >[!INFO]
 >The aim of this configuration is to give users an ip address which they can use to access the webpage
 
 ![image](https://github.com/karthi770/Jira_GitHub_intergration_Python/assets/102706119/f38af308-2984-4f03-b300-988795c956db)
 ![image](https://github.com/karthi770/Jira_GitHub_intergration_Python/assets/102706119/e4cf633a-4472-43ea-84c6-3b4731f00c43)
+
+-
+<div class="page-break"></div>
 
 >[!CHECK] 
 >
