@@ -50,16 +50,19 @@ In order to check if the nginx server is working you need to curl and see the co
 ![image](https://github.com/karthi770/Jira_GitHub_intergration_Python/assets/102706119/f38af308-2984-4f03-b300-988795c956db)
 ![image](https://github.com/karthi770/Jira_GitHub_intergration_Python/assets/102706119/e4cf633a-4472-43ea-84c6-3b4731f00c43)
 
->[!CHECK] ![image](https://github.com/karthi770/Jira_GitHub_intergration_Python/assets/102706119/b759b772-bf6e-4e44-932a-c94cd20d85f0)
+>[!CHECK] 
+>![image](https://github.com/karthi770/Jira_GitHub_intergration_Python/assets/102706119/b759b772-bf6e-4e44-932a-c94cd20d85f0)
 >This is the location to get the IP address of the firewall and paste it in the destination tab.
 ![image](https://github.com/karthi770/Jira_GitHub_intergration_Python/assets/102706119/0cb3f16c-48d2-432b-8e33-a8d7387350d0)
 >This is the location to get the private IP address of the Virtual machine. This IP should be entered in Translated address.
 
->[!INFO] With all the above information create the rule and eventually create the firewall policy.
+>[!INFO] 
+>With all the above information create the rule and eventually create the firewall policy.
 
 ![image](https://github.com/karthi770/Jira_GitHub_intergration_Python/assets/102706119/2cdf5ff3-a9c0-47bd-beed-8b8c5b80f76e)
 
->[!QUESTION]  <u>Difference between DNAT rule and NAT gateway:</u>
+>[!QUESTION]  
+><u>Difference between DNAT rule and NAT gateway:</u>
 >In Azure, when you refer to a "DNAT rule," you are likely talking about configuring a Network Security Group (NSG) rule that involves Destination Network Address Translation (DNAT). DNAT in this context is a way to translate the destination IP address of incoming network traffic.
 Here's how it works: 
 1.**Destination Network Address Translation (DNAT) in Azure NSG:**
@@ -68,7 +71,8 @@ This is often used when you want to expose a service running on a specific virtu
    2. **Network Address Translation (NAT) in Azure:** Azure provides a service called Azure NAT Gateway, which performs source network address translation for outbound traffic. It allows virtual machines within a private subnet to access the internet without having public IP addresses. This is different from DNAT, as NAT Gateway is primarily concerned with translating the source IP address of outgoing traffic.                                                           In summary, DNAT in an Azure NSG is a mechanism to allow inbound traffic to be forwarded to specific resources inside your Azure network, while Azure NAT Gateway is a service that allows outbound traffic from private resources to access the internet using a shared public IP address. They serve different purposes but both involve some form of network address translation. 
 
 ![image](https://github.com/karthi770/Jira_GitHub_intergration_Python/assets/102706119/f38af308-2984-4f03-b300-988795c956db)
->[!IMPORTANT] If you could see there is an option to attach the firewall policy, we need to add the created firewall policy .
+>[!IMPORTANT] 
+>If you could see there is an option to attach the firewall policy, we need to add the created firewall policy .
 
 
 Hi
