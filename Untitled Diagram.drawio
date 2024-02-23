@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-23T18:51:49.208Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:122.0) Gecko/20100101 Firefox/122.0" etag="XEljSal3qpz5iDnSspJI" version="23.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-23T18:52:11.926Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:122.0) Gecko/20100101 Firefox/122.0" etag="oCmVdpQtJmSswUGS6A-S" version="23.1.5" type="github">
   <diagram name="Page-1" id="rbhh-LLPLzyjg0o7bcGs">
-    <mxGraphModel dx="1216" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1477" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -11,7 +11,7 @@
           <mxGeometry x="420" y="120" width="340" height="370" as="geometry" />
         </mxCell>
         <mxCell id="xnxbj8NPCQGm7oIH2xkB-12" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="520" y="78.36000000000001" width="67" height="79.63999999999999" as="geometry" />
+          <mxGeometry x="500" y="100.00000000000001" width="67" height="79.63999999999999" as="geometry" />
         </mxCell>
         <mxCell id="xnxbj8NPCQGm7oIH2xkB-6" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Virtual_Networks.svg;" vertex="1" parent="xnxbj8NPCQGm7oIH2xkB-12">
           <mxGeometry width="67" height="40" as="geometry" />
@@ -80,7 +80,7 @@
           <mxGeometry x="480" y="210" width="220" height="180" as="geometry" />
         </mxCell>
         <mxCell id="xnxbj8NPCQGm7oIH2xkB-14" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="632" y="163" width="68" height="80" as="geometry" />
+          <mxGeometry x="624" y="190" width="68" height="80" as="geometry" />
         </mxCell>
         <mxCell id="xnxbj8NPCQGm7oIH2xkB-7" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Subnet.svg;" vertex="1" parent="xnxbj8NPCQGm7oIH2xkB-14">
           <mxGeometry width="68" height="40.72" as="geometry" />
@@ -89,7 +89,7 @@
           <mxGeometry x="4" y="50" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xnxbj8NPCQGm7oIH2xkB-31" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="556" y="260.34000000000003" width="68" height="102" as="geometry" />
+          <mxGeometry x="550" y="260.34000000000003" width="68" height="102" as="geometry" />
         </mxCell>
         <mxCell id="xnxbj8NPCQGm7oIH2xkB-8" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Spot_VM.svg;" vertex="1" parent="xnxbj8NPCQGm7oIH2xkB-31">
           <mxGeometry width="68" height="62.8" as="geometry" />
