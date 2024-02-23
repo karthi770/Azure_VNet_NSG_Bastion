@@ -45,7 +45,6 @@ In order to check if the nginx server is working you need to curl and see the co
 
 ### Configure the Firewall
 >[!INFO]
->
 >The aim of this configuration is to give users an ip address which they can use to access the webpage
 
 ![image](https://github.com/karthi770/Jira_GitHub_intergration_Python/assets/102706119/f38af308-2984-4f03-b300-988795c956db)
@@ -76,9 +75,5 @@ This is often used when you want to expose a service running on a specific virtu
 ![image](https://github.com/karthi770/Jira_GitHub_intergration_Python/assets/102706119/f38af308-2984-4f03-b300-988795c956db)
 >[!IMPORTANT] 
 >If you could see there is an option to attach the firewall policy, we need to add the created firewall policy .
-
-
-Hi
-bye
 
 
