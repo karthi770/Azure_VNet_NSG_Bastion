@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-23T18:41:42.479Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:122.0) Gecko/20100101 Firefox/122.0" etag="QpYe7uqEjUIxpHm4Hswx" version="23.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-23T18:41:52.306Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:122.0) Gecko/20100101 Firefox/122.0" etag="U4d1ns0_ehkcC0Qmmzov" version="23.1.5" type="github">
   <diagram name="Page-1" id="rbhh-LLPLzyjg0o7bcGs">
     <mxGraphModel dx="1216" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -9,9 +9,6 @@
         </mxCell>
         <mxCell id="xnxbj8NPCQGm7oIH2xkB-8" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Spot_VM.svg;" vertex="1" parent="1">
           <mxGeometry x="597" y="30" width="68" height="62.8" as="geometry" />
-        </mxCell>
-        <mxCell id="xnxbj8NPCQGm7oIH2xkB-9" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Resource_Groups.svg;" vertex="1" parent="1">
-          <mxGeometry x="150" y="30" width="68" height="64" as="geometry" />
         </mxCell>
         <mxCell id="xnxbj8NPCQGm7oIH2xkB-12" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="313" y="310.36" width="67" height="79.63999999999999" as="geometry" />
@@ -64,8 +61,14 @@
         <mxCell id="xnxbj8NPCQGm7oIH2xkB-23" value="Bastion" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="xnxbj8NPCQGm7oIH2xkB-24">
           <mxGeometry x="10" y="68" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="xnxbj8NPCQGm7oIH2xkB-25" value="Resource Group" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="253" y="60" width="60" height="30" as="geometry" />
+        <mxCell id="xnxbj8NPCQGm7oIH2xkB-26" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="150" y="30" width="68" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="xnxbj8NPCQGm7oIH2xkB-9" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/general/Resource_Groups.svg;" vertex="1" parent="xnxbj8NPCQGm7oIH2xkB-26">
+          <mxGeometry width="68" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="xnxbj8NPCQGm7oIH2xkB-25" value="Resource Group" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="xnxbj8NPCQGm7oIH2xkB-26">
+          <mxGeometry x="4" y="80" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
