@@ -1,12 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2024-02-23T18:45:09.998Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:122.0) Gecko/20100101 Firefox/122.0" etag="zoR6Dr-ZsAwCQ8e3RbCD" version="23.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-23T18:46:27.693Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:122.0) Gecko/20100101 Firefox/122.0" etag="Pw8VqdpIBtGwWB6pEC-0" version="23.1.5" type="github">
   <diagram name="Page-1" id="rbhh-LLPLzyjg0o7bcGs">
     <mxGraphModel dx="1216" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="xnxbj8NPCQGm7oIH2xkB-5" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Network_Security_Groups.svg;" vertex="1" parent="1">
-          <mxGeometry x="660" y="180" width="56.00000000000001" height="68" as="geometry" />
-        </mxCell>
         <mxCell id="xnxbj8NPCQGm7oIH2xkB-12" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="392" y="130" width="67" height="79.63999999999999" as="geometry" />
         </mxCell>
@@ -35,7 +32,7 @@
           <mxGeometry x="4" y="49.31999999999999" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xnxbj8NPCQGm7oIH2xkB-24" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="630" y="300" width="70" height="98" as="geometry" />
+          <mxGeometry x="680" y="330" width="70" height="98" as="geometry" />
         </mxCell>
         <mxCell id="xnxbj8NPCQGm7oIH2xkB-2" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Bastions.svg;" vertex="1" parent="xnxbj8NPCQGm7oIH2xkB-24">
           <mxGeometry width="57.99999999999999" height="68" as="geometry" />
@@ -74,13 +71,22 @@
           <mxGeometry y="30" width="71" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xnxbj8NPCQGm7oIH2xkB-31" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="480" y="248" width="68" height="102" as="geometry" />
+          <mxGeometry x="450" y="300" width="68" height="102" as="geometry" />
         </mxCell>
         <mxCell id="xnxbj8NPCQGm7oIH2xkB-8" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Spot_VM.svg;" vertex="1" parent="xnxbj8NPCQGm7oIH2xkB-31">
           <mxGeometry width="68" height="62.8" as="geometry" />
         </mxCell>
         <mxCell id="xnxbj8NPCQGm7oIH2xkB-30" value="Virtual Machine" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="xnxbj8NPCQGm7oIH2xkB-31">
           <mxGeometry x="4" y="72" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xnxbj8NPCQGm7oIH2xkB-33" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="650" y="140" width="60" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="xnxbj8NPCQGm7oIH2xkB-5" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Network_Security_Groups.svg;" vertex="1" parent="xnxbj8NPCQGm7oIH2xkB-33">
+          <mxGeometry x="2" width="56.00000000000001" height="68" as="geometry" />
+        </mxCell>
+        <mxCell id="xnxbj8NPCQGm7oIH2xkB-32" value="Network Security Group" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="xnxbj8NPCQGm7oIH2xkB-33">
+          <mxGeometry y="90" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
