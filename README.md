@@ -19,7 +19,7 @@
 
 ![image](https://github.com/karthi770/Jira_GitHub_intergration_Python/assets/102706119/5a3e33cd-3a3b-4b99-8c10-4f89a7e86275)
 
->[!INFO]
+>[!NOTE]
 >The bastion host is used to access the virtual machine that does not have the public IP address.
 
 ![image](https://github.com/karthi770/Jira_GitHub_intergration_Python/assets/102706119/129290d4-6d6d-49c2-9c85-91d02dd1f53a)
@@ -30,6 +30,8 @@
 
 -
 <div class="page-break"></div>
+
+
 ### Create a Virtual machine
 ![image](https://github.com/karthi770/Jira_GitHub_intergration_Python/assets/102706119/5b83327d-bcfa-4343-b85b-e5bb8f10a693)
 
@@ -47,7 +49,7 @@
 
 ![image](https://github.com/karthi770/Jira_GitHub_intergration_Python/assets/102706119/4aa74d82-3680-4d5c-8264-926f191648ce)
 
->[!INFO]
+>[!NOTE]
 >The custom data is like the user data in the AWS which will allow the script to run when the VM is initiated. And user data in Azure will store the script to the lifetime of the VM.
 
 ![image](https://github.com/karthi770/Jira_GitHub_intergration_Python/assets/102706119/169383ae-1800-4ae2-a8c2-d7d429bcbb6a)
@@ -55,7 +57,7 @@
 ### Bastion Server
 ![image](https://github.com/karthi770/Jira_GitHub_intergration_Python/assets/102706119/2d9cd11a-48f3-4e4a-82d4-0498cf6cf906)
 
->[!INFO]
+>[!NOTE]
 >Enter the virtual machine and connect  to the bastion with SSH private key. Select the .pem file that we downloaded.
 
 ![image](https://github.com/karthi770/Jira_GitHub_intergration_Python/assets/102706119/cfd5e38c-137b-4d8e-a759-a3b6aef4d088)
@@ -74,7 +76,8 @@ In order to check if the nginx server is working you need to curl and see the co
 -
 <div class="page-break"></div>
 ### Configure the Firewall
->[!INFO]
+
+>[!NOTE]
 >The aim of this configuration is to give users an ip address which they can use to access the webpage
 
 ![image](https://github.com/karthi770/Jira_GitHub_intergration_Python/assets/102706119/f38af308-2984-4f03-b300-988795c956db)
@@ -83,19 +86,19 @@ In order to check if the nginx server is working you need to curl and see the co
 -
 <div class="page-break"></div>
 
->[!CHECK] 
+>[!IMPORTANT] 
 >
 >This is the location to get the IP address of the firewall and paste it in the destination tab.
 >![image](https://github.com/karthi770/Jira_GitHub_intergration_Python/assets/102706119/b759b772-bf6e-4e44-932a-c94cd20d85f0)
 >This is the location to get the private IP address of the Virtual machine. This IP should be entered in Translated address.
 ![image](https://github.com/karthi770/Jira_GitHub_intergration_Python/assets/102706119/0cb3f16c-48d2-432b-8e33-a8d7387350d0)
 
->[!INFO] 
+>[!NOTE] 
 >With all the above information create the rule and eventually create the firewall policy.
 
 ![image](https://github.com/karthi770/Jira_GitHub_intergration_Python/assets/102706119/2cdf5ff3-a9c0-47bd-beed-8b8c5b80f76e)
 
->[!QUESTION]  
+>[!TIP] 
 ><u>Difference between DNAT rule and NAT gateway:</u>
 >In Azure, when you refer to a "DNAT rule," you are likely talking about configuring a Network Security Group (NSG) rule that involves Destination Network Address Translation (DNAT). DNAT in this context is a way to translate the destination IP address of incoming network traffic.
 Here's how it works: 
