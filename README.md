@@ -4,6 +4,8 @@
 
 -
 <div class="page-break"></div>
+
+
 ### Create a Resource group
 
 ![image](https://github.com/karthi770/Jira_GitHub_intergration_Python/assets/102706119/317374ed-bda8-41f1-8817-5f4b97aee7a8)
